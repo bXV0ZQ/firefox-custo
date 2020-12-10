@@ -150,7 +150,7 @@ while read e || [[ -n ${e} ]]; do
     fi
     if [[ -n "${EXT_ID}" ]]; then
         echo "${e}:" > "${EXT_INFO}"
-        echo "  id: ${EXT_ID}" >> "${EXT_INFO}"
+        echo "  id: \"${EXT_ID}\"" >> "${EXT_INFO}"
         echo "  source: ${EXT_SRC}" >> "${EXT_INFO}"
         echo "  hash: ${EXT_HASH}" >> "${EXT_INFO}"
         print_info "Extension info generated"

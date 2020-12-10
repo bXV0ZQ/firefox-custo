@@ -1,4 +1,4 @@
 cookie-autodelete:
-  id: CookieAutoDelete@kennydo.com
+  id: "CookieAutoDelete@kennydo.com"
   source: https://addons.mozilla.org/firefox/downloads/latest/cookie-autodelete/latest.xpi
   hash: 7aa3dde448c0e573a9882781482e7fb6952cbeb5152c3919799d2138d149abec

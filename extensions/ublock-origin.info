@@ -1,4 +1,4 @@
 ublock-origin:
-  id: uBlock0@raymondhill.net
+  id: "uBlock0@raymondhill.net"
   source: https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi
   hash: d9eef701b99866565708fe69b5855c1634187630e9e223e810f10e482545e6c0

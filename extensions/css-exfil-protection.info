@@ -1,0 +1,4 @@
+css-exfil-protection:
+  id: {7fc8ef53-24ec-4205-87a4-1e745953bb0d}
+  source: https://addons.mozilla.org/firefox/downloads/latest/css-exfil-protection/latest.xpi
+  hash: 1e31940698d3c5477a6980688ba21125d70afff21e02915956d4b0386d44ab5d

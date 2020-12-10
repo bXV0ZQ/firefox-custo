@@ -1,0 +1,4 @@
+skip-redirect:
+  id: skipredirect@sblask
+  source: https://addons.mozilla.org/firefox/downloads/latest/skip-redirect/latest.xpi
+  hash: bee434ea6410aca1321a20ed62a15b3b3c295d95eb4445b88adb0970652f1b3a
